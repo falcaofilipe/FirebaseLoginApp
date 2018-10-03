@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1004962805288",
+    "firebase_url": "https://fir-loginapp-40c1d.firebaseio.com",
+    "project_id": "fir-loginapp-40c1d",
+    "storage_bucket": "fir-loginapp-40c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004962805288:android:ac5c408dbe66fae8",
+        "android_client_info": {
+          "package_name": "login.com.example.filipe.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004962805288-2pf5oivjpmoj71463g8at9tuh53q3is3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5sOahBDUXST_lQ2EQZRuzDo0YmQA6Ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
