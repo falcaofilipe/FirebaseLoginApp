@@ -89,7 +89,8 @@ public class FichaActivity extends Activity {
             //Padrões de projeto:
             //Padrões Estruturais
             //Adapter - A ação desse padrão converte a interface de uma classe em outra, esperada pelo objeto cliente.
-            // Através dessa conversão, permite que classes com incompatibilidade de interfaces, consigam serem adaptadas para que outros objetos possam trabalhar juntos.
+            // Através dessa conversão, permite que classes com incompatibilidade de interfaces, consigam serem adaptadas
+            // para que outros objetos possam trabalhar juntos.
             itensAdaptador = new ArrayAdapter<String>(getApplicationContext(),
                     android.R.layout.simple_list_item_2,
                     android.R.id.text2,

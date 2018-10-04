@@ -29,7 +29,7 @@ public class RssActivity extends Activity {
     //Padrão de projeto:
     //Padrões de criação
     //Singleton - Usado quando desejado, que uma classe tenha apenas uma instância na aplicação.
-    // Abaixo, mostra alguns aspectos que devem serem cuidados ao criar esse padrão.
+
     private final String RSS_to_Json_API = "https://api.rss2json.com/v1/api.json?rss_url=";
 
     @Override

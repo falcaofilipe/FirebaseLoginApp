@@ -46,7 +46,6 @@ public class TreinoActivity extends Activity {
         //Padrão de projeto:
         //Padrões de criação
         //Singleton - Usado quando desejado, que uma classe tenha apenas uma instância na aplicação.
-        // Abaixo, mostra alguns aspectos que devem serem cuidados ao criar esse padrão.
 
        try {
 
