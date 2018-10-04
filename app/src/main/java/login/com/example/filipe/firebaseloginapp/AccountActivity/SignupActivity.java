@@ -17,6 +17,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 import login.com.example.filipe.firebaseloginapp.MainActivity;
+import login.com.example.filipe.firebaseloginapp.MenuActivity;
 import login.com.example.filipe.firebaseloginapp.R;
 
 public class SignupActivity extends AppCompatActivity {
@@ -91,7 +92,7 @@ public class SignupActivity extends AppCompatActivity {
                                     Toast.makeText(SignupActivity.this, "Authentication failed." + task.getException(),
                                             Toast.LENGTH_SHORT).show();
                                 } else {
-                                    startActivity(new Intent(SignupActivity.this, MainActivity.class));
+                                    startActivity(new Intent(SignupActivity.this, MenuActivity.class));
                                     finish();
                                 }
                             }
